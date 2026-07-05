@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+plotly
+streamlit
+joblib
+shap
+xgboost
+pytest
+black
+flake8
+isort
